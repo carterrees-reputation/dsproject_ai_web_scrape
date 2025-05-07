@@ -1,6 +1,25 @@
 {
     "content": [
         {
+            "reviewer_name": "Sonia",
+            "reviewer_location": "North Richland Hills, TX",
+            "review_date": "2025-05-03",
+            "star_rating": 4,
+            "tags": [
+                "Customer Service",
+                "Staff"
+            ],
+            "review_text": "I recently met with Brad, service dept. Director at Chevy AutoNation after a 0 review. He requested I come in and explain which I appreciated. He listened, was kind and took notes so he could improve the situation. He agreed there was a communication failure and was willing to improve the situation in the future. He seemed sincere and expected excellent customer service. More I took my Malibu back 2day to replace a catalytic converter. It arrived at 8:10 a.m. and we were told it would be 2-3 hours but due to some issues it took around 8. We didn\u2019t pick it up because our 2nd car was in use and I had no way to pick it up until morning. I was called and notified which was appreciated and left a message for the Director. I do wish that someone would have let us know that the job was going to take a lot longer than expected. I am giving a 4 because the dealership is trying to improve and resolve issues. I want to wait and see how our future issues are handled before I give a 5. I believe it is a good dealership and Edgar, Jacob, and Taylor were very good during my sale. More",
+            "likes": [
+                "Good dealership",
+                "Excellent customer service",
+                "Trying to improve"
+            ],
+            "dislikes": [
+                "Long wait times"
+            ]
+        },
+        {
             "reviewer_name": "Steve",
             "reviewer_location": "Blairsville, GA",
             "review_date": "2025-03-23",
@@ -9,10 +28,11 @@
                 "Customer Service",
                 "Staff"
             ],
-            "review_text": "I recently had the pleasure of working with Kathryn at AutoNation in Chattanooga, TN, and I cannot express enough how impressed I am with her professionalism, technical expertise, and outstanding customer service.",
+            "review_text": "I recently had the pleasure of working with Kathryn at AutoNation in Chattanooga, TN, and I cannot express enough how impressed I am with her professionalism, technical expertise, and outstanding customer service. From our very first interaction, Kathryn was attentive and truly listened to our needs. We needed to sell our 2013 RAM 1500 4X4 to purchase a wheelchair-accessible vehicle, and Kathryn guided us through the entire process with ease. Her knowledge of the market and understanding of our situation allowed her to secure the funds we wanted for our truck, which was a significant relief. More What truly sets Kathryn apart is her exceptional communication skills. She kept us informed at every step, ensuring we felt comfortable and confident in our decisions. Her friendly demeanor made the entire experience enjoyable, and we really appreciated her dedication to helping us find the right solution for our needs. Even after the sale, Kathryn continued to provide support, demonstrating her commitment to her clients. I wholeheartedly recommend Kathryn at AutoNation for anyone looking for a smooth and successful vehicle sale or purchase experience. Thank you, Kathryn, for your remarkable service! More",
             "likes": [
                 "Professionalism",
-                "Outstanding service"
+                "Outstanding customer service",
+                "Exceptional communication"
             ],
             "dislikes": []
         },
@@ -25,10 +45,11 @@
                 "Customer Service",
                 "Staff"
             ],
-            "review_text": "I want to take a moment to commend Hailey for her exceptional service at AutoNation yesterday. Her support made the experience completely hassle-free.",
+            "review_text": "I want to take a moment to commend Hailey for her exceptional service at AutoNation yesterday. Her support made the experience completely hassle-free. She demonstrated fast response times, excellent follow-up, and truly amazing customer service. Hailey went above and beyond, and her professionalism and efficiency did not go unnoticed. Thank you for making the process seamless and pleasant!",
             "likes": [
+                "Exceptional service",
                 "Hassle-free experience",
-                "Exceptional service"
+                "Fast response times"
             ],
             "dislikes": []
         },
@@ -40,10 +61,11 @@
             "tags": [
                 "Staff"
             ],
-            "review_text": "Michael went above and beyond; he was extremely easy to talk to. I let him know right at the start this was my budget on a used vehicle for my daughter, and it was literally right there.",
+            "review_text": "Michael went above and beyond; he was extremely easy to talk to. I let him know right at the start this was my budget on a used vehicle for my daughter, and it was literally right there. I was amazed because I have bad credit. I\u2019ve been to other dealerships, and we go through everything, but then at the end, the payments are not nearly what we discuss, so it was a BIG change, and I\u2019m already planning to get my next kid a vehicle from Michael. THANKS.",
             "likes": [
+                "Above and beyond",
                 "Easy to talk to",
-                "Good budget management"
+                "Sticking to the budget"
             ],
             "dislikes": []
         },
@@ -54,28 +76,13 @@
             "star_rating": 5,
             "tags": [
                 "Customer Service",
-                "Price",
-                "Staff"
+                "Price"
             ],
-            "review_text": "Daniel from AutoNation Subaru in Fremont (San Francisco) helped me to buy my beautiful Subaru CrossTreck car yesterday. He was very nice, polite, and professional.",
+            "review_text": "Daniel from AutoNation Subaru in Fremont (San Francisco) helped me to buy my beautiful Subaru CrossTreck car yesterday. He was very nice, polite, and professional. I am very happy with his customer service, quality of the my car and the price. Will be happy to recommend you to my family, friends, and here to our community. Thanks again, Daniel.",
             "likes": [
                 "Nice and polite",
-                "Professional service"
-            ],
-            "dislikes": []
-        },
-        {
-            "reviewer_name": "Janet",
-            "reviewer_location": "Massillon, OH",
-            "review_date": "2024-10-30",
-            "star_rating": 5,
-            "tags": [
-                "Staff"
-            ],
-            "review_text": "I went in on a Saturday morning without an appointment as my tires were low. I was immediately greeted by kind and caring staff who provided helpful service and were considerate of my worry.",
-            "likes": [
-                "Kind and caring staff",
-                "Helpful service"
+                "Professional service",
+                "Quality car"
             ],
             "dislikes": []
         },
@@ -87,12 +94,12 @@
             "tags": [
                 "Customer Service"
             ],
-            "review_text": "In December 2024 I took my vehicle to Autonation Henderson and we are now here at April 15, 2025 and I still do not have my vehicle back. They have left me without a vehicle with no regard on how I will get to work or take care of my personal day to day life.",
+            "review_text": "I wrote a review about 5 weeks ago and it seems to have been taken down. In December 2024 I took my vehicle to Autonation Henderson and we are now here at April 15, 2025 and I still do not have my vehicle back. They have left me without a vehicle with no regard on how I will get to work or take care of my personal day to day life. I have also requested a phone call from corporate with those requests also being ignored! I would not recommend anyone to purchase from this company!",
             "likes": [],
             "dislikes": [
-                "No vehicle returned",
-                "Lack of communication",
-                "Ignored concerns"
+                "No vehicle return",
+                "Ignored requests",
+                "Poor customer service"
             ]
         },
         {
@@ -103,15 +110,14 @@
             "tags": [
                 "Customer Service",
                 "Price",
-                "Staff",
                 "Financing"
             ],
-            "review_text": "So I went to this place looking at a Honda Odyssey and spoke with Robert T. Mind you I had my own finance company and did not need theirs at all. I had USAA, Navy Federal Apple Credit Union.",
+            "review_text": "So I went to this place looking at a Honda Odyssey and spoke with Robert T. Mind you I had my own finance company and did not need theirs at all. I had USAA, Navy Federal Apple Credit Union. After sitting down with him I was very clear on what I wanted and the price with everything including I was not going over it. Robert had me fill out the paperwork, and I told him do not run my credit at all. I made it clear before he went over to finance about the price that I was gonna pay. Next a guy from finance approached me talking about Gap insurance that I had a question about gap insurance. I explained to him I never had a question about gap insurance and I know that it\u2019s not what Robert had told him and if it so it was incorrect information. So he explained that he couldn\u2019t go down on the price but $31. I said never mind. I am not taking the vehicle. More He then change the price to go down additional $331 to 15,000. I said 14 five and that is it. He said, 'Well if you cannot do 15 then I guess that would be it,' and I said I guess so. There\u2019s no need for continue with this conversation because neither one of us is budgeted on the price. Robert T then came back to his desk and stated that, 'We doing all of this over $500.00,' and I said, 'Yes we are'. Robert went back over to finance to try to get the $500 taken off. So while sitting there, I received a phone call from Navy Federal that my account has been hacked and money was taken out of my account and they want to confirm it with me. So they stated that they was gonna lock my account to prevent anything else of coming out, I was irritated and I said I\u2019m gonna leave. At this point, someone from finance came over to me and said, 'Because this is happening to you we\u2019re gonna put a hold on everything. We\u2019re not gonna touch anything and move forward any transactions until you cleared up with your bank to make sure everything\u2018s OK'. I said perfect. Once I discussed the fraud with my bank. At this point the next day I receive notification that my credit was ran from their dealership. I reached out to Robert to ask what was going on. Why did they run my credit when they simply said from finance we was not moving forward with anything until I found out what happened with my bank account. He said he don\u2019t know why they did it. I said, 'So you guys must agreed on my 14 five since you just did a hard credit report on me.' Long story short they did not agree on the price. They wanted to apologize and stated that they run credit reports before agreeing on a price and before selling the vehicle. What was the need to run my credit report if I had my own finance company and on top of that if your finance guy named John comes to me and tell me that, 'Because your account got hacked, we\u2019re going to stop everything and not touch your stuff'. So you mean to tell me that anybody feel like any paperwork your credit with get checked. I\u2019m the type of person that looks at my credit report and get notification when it got ran, I realize what you did and called you out on it. At this point I keep calling up there to figure out and ask why did they touch my credit and why did they run my credit for it? They decided to stop answering my phone calls. Say the person wasn\u2019t there that I was looking for and then when my husband call them from his phone, they decided to answer and explained to him that they run everybody credit report before they discussed numbers with them regarding a vehicle. I went to six other car dealerships to see if that would happen and I even asked them and they all told me, 'We don\u2019t run anything without your permission and we don\u2019t we discussed numbers and prices before we run anything,' so no I will never buy from them. I would never refer someone to them and if you do go to them, do not put your social on anything until you have it in writing the price of the vehicle with taxes and registration all included in writing, signed by someone higher like the owner rather then the floor rep or finance person because they will try to change the numbers and change everything. I do not play about my credit score. Oh yeah before my husband went off on John he dropped the price and down to $100.00 more but mind you they kept saying that they couldn\u2019t do that!! More",
             "likes": [],
             "dislikes": [
-                "Poor financing process",
-                "Lack of price agreement",
-                "Credit ran without permission"
+                "Poor communication",
+                "Credit run without consent",
+                "No changes in price"
             ]
         },
         {
@@ -123,12 +129,12 @@
                 "Customer Service",
                 "Staff"
             ],
-            "review_text": "We purchased a truck in July, 2024 with a 90 day/4000 mile warranty. Within the first two weeks, we had an engine lifter issue. We brought it in for repairs. Two weeks later, we had the same problem after Autonation fixed it.",
+            "review_text": "We purchased a truck in July, 2024 with a 90 day/4000 mile warranty. Within the first two weeks, we had an engine lifter issue. We brought it in for repairs. Two weeks later, we had the same problem after Autonation fixed it. Now we find out that Autonation sold to Coast. The people are the same, Coast honors the GM warranty and supposedly fixes the repair Autonation did not. (Side note, it was the same people and they never said to tow to Autonation or with our AAA we certainly would have used the free tow, because they wouldn\u2019t honor the 12/12000 mile warranty since they \u201cdid Autonation a favor.\u201d). More Seven months later, all the lifters with a $13500 estimate. Autonation won\u2019t assist at all because Coast did last repair, even though same people and fixing Autonation repair. Corporate office is a joke, taking more than three weeks to get back to me, where someone name Jackson says the \u201chigher ups\u201d denied it for the above reason. Despite my asking over the phone and following up with multiple emails, he will not provide me any information to escalate this to the next level. We really got screwed getting caught in between in this sale, and Autonation is not trustworthy at all. (Note: thank you, Chevrolet for at least offering a small amount of assistance.) More",
             "likes": [],
             "dislikes": [
-                "Repeated engine issues",
-                "Poor warranty service",
-                "Lack of assistance"
+                "Poor repair service",
+                "No assistance from corporate",
+                "Not trustworthy"
             ]
         },
         {
@@ -140,12 +146,12 @@
                 "Customer Service",
                 "Staff"
             ],
-            "review_text": "No I did not. I came in two separate times. The truck was looked at and I was offered $70,000. There is damage to the rear driver side door. I told the person I was dealing with and the damage was evident.",
+            "review_text": "No I did not. I came in two separate times. The truck was looked at and I was offered $70,000. There is damage to the rear driver side door. I told the person I was dealing with and the damage was evident. I left because I was told corporate did not have an offer. Two days later I was called and told that they offered $70,000. I told the person I was working with that I was going to another place for an offer. She said she could do $71,000. I said I would take the offer. I came in at 4 pm Friday to complete the deal. More At that time another guy looked at my truck and came in and was somewhat disrespectful to me. He stated that I had understated the damage to the truck. While I was very irate I held myself to being more professional than the guy that addressed me in front of the lady I was working with and another consultant. I said that if he didn\u2019t want the vehicle I would be more than willing to go back to Vaden Chevrolet because they had that same day (Friday) offered me more than Auto Nation. He said, 'Yeah why don\u2019t you do that.' I refused the offer from Vaden because I am a man of my word and had already told the consultant I was working with that I would take her offer. I apologized to the consultant for her doing all the work she did and this guy losing her the commission she would have gotten. I will never do business with Auto Nation again. Last year I sold Auto Nation my BMW. That guy is bad for business. I\u2019ll be sure to spread the word.",
             "likes": [],
             "dislikes": [
                 "Disrespectful staff",
-                "Mismatch in offers",
-                "Poor customer experience"
+                "Offer changes",
+                "Poor communication"
             ]
         },
         {
@@ -156,12 +162,12 @@
             "tags": [
                 "Customer Service"
             ],
-            "review_text": "Save yourself time and money and avoid Mercedes Southbay like the plague...having purchased over 20 cars in my lifetime, this was hands down the WORST car buying experience I have ever had!",
+            "review_text": "Save yourself time and money and avoid Mercedes Southbay like the plague...having purchased over 20 cars in my lifetime, if not more, this was hands down the WORST car buying experience I have ever had! They will not follow up or return calls or emails to update you on the deal...once they finally called me 3 days later to tell me the deal was all approved and I needed to come in person and sign papers for delivery, I shared that other dealers I was approved with offered to allow digital signatures and would deliver the car to my door...needless to say, I chose the other dealer when the response I received from the sales person was, 'I am just a sales guy, this is AUTONATION'S policy'",
             "likes": [],
             "dislikes": [
-                "WORST car buying experience",
-                "Lack of follow-up",
-                "Poor communication"
+                "No follow up",
+                "Poor communication",
+                "Worst car buying experience"
             ]
         }
     ]

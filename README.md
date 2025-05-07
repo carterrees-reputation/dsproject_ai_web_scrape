@@ -27,6 +27,3 @@ This project is designed to perform web scraping using AI to extract data from v
 - **AI-Powered Data Extraction**: Utilizes OpenAI's models to parse and extract structured data.
 - **Cost Estimation**: Projects the cost of scraping based on token usage.
 
-## License
-
-This project is licensed under the MIT License. 
