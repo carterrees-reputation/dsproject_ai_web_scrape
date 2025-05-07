@@ -1,0 +1,168 @@
+{
+    "content": [
+        {
+            "reviewer_name": "Steve",
+            "reviewer_location": "Blairsville, GA",
+            "review_date": "2025-03-23",
+            "star_rating": 5,
+            "tags": [
+                "Customer Service",
+                "Staff"
+            ],
+            "review_text": "I recently had the pleasure of working with Kathryn at AutoNation in Chattanooga, TN, and I cannot express enough how impressed I am with her professionalism, technical expertise, and outstanding customer service.",
+            "likes": [
+                "Professionalism",
+                "Outstanding service"
+            ],
+            "dislikes": []
+        },
+        {
+            "reviewer_name": "Carlos",
+            "reviewer_location": "Georgetown, TX",
+            "review_date": "2025-03-17",
+            "star_rating": 5,
+            "tags": [
+                "Customer Service",
+                "Staff"
+            ],
+            "review_text": "I want to take a moment to commend Hailey for her exceptional service at AutoNation yesterday. Her support made the experience completely hassle-free.",
+            "likes": [
+                "Hassle-free experience",
+                "Exceptional service"
+            ],
+            "dislikes": []
+        },
+        {
+            "reviewer_name": "Juan",
+            "reviewer_location": "Richmond, TX",
+            "review_date": "2025-03-05",
+            "star_rating": 5,
+            "tags": [
+                "Staff"
+            ],
+            "review_text": "Michael went above and beyond; he was extremely easy to talk to. I let him know right at the start this was my budget on a used vehicle for my daughter, and it was literally right there.",
+            "likes": [
+                "Easy to talk to",
+                "Good budget management"
+            ],
+            "dislikes": []
+        },
+        {
+            "reviewer_name": "Ramak",
+            "reviewer_location": "Sunnyvale, CA",
+            "review_date": "2024-11-10",
+            "star_rating": 5,
+            "tags": [
+                "Customer Service",
+                "Price",
+                "Staff"
+            ],
+            "review_text": "Daniel from AutoNation Subaru in Fremont (San Francisco) helped me to buy my beautiful Subaru CrossTreck car yesterday. He was very nice, polite, and professional.",
+            "likes": [
+                "Nice and polite",
+                "Professional service"
+            ],
+            "dislikes": []
+        },
+        {
+            "reviewer_name": "Janet",
+            "reviewer_location": "Massillon, OH",
+            "review_date": "2024-10-30",
+            "star_rating": 5,
+            "tags": [
+                "Staff"
+            ],
+            "review_text": "I went in on a Saturday morning without an appointment as my tires were low. I was immediately greeted by kind and caring staff who provided helpful service and were considerate of my worry.",
+            "likes": [
+                "Kind and caring staff",
+                "Helpful service"
+            ],
+            "dislikes": []
+        },
+        {
+            "reviewer_name": "Patricia",
+            "reviewer_location": "Las Vegas, NV",
+            "review_date": "2025-04-15",
+            "star_rating": 1,
+            "tags": [
+                "Customer Service"
+            ],
+            "review_text": "In December 2024 I took my vehicle to Autonation Henderson and we are now here at April 15, 2025 and I still do not have my vehicle back. They have left me without a vehicle with no regard on how I will get to work or take care of my personal day to day life.",
+            "likes": [],
+            "dislikes": [
+                "No vehicle returned",
+                "Lack of communication",
+                "Ignored concerns"
+            ]
+        },
+        {
+            "reviewer_name": "Kawana",
+            "reviewer_location": "Linthicum Heights, MD",
+            "review_date": "2025-04-06",
+            "star_rating": 1,
+            "tags": [
+                "Customer Service",
+                "Price",
+                "Staff",
+                "Financing"
+            ],
+            "review_text": "So I went to this place looking at a Honda Odyssey and spoke with Robert T. Mind you I had my own finance company and did not need theirs at all. I had USAA, Navy Federal Apple Credit Union.",
+            "likes": [],
+            "dislikes": [
+                "Poor financing process",
+                "Lack of price agreement",
+                "Credit ran without permission"
+            ]
+        },
+        {
+            "reviewer_name": "Karen",
+            "reviewer_location": "Port Richey, FL",
+            "review_date": "2025-04-06",
+            "star_rating": 1,
+            "tags": [
+                "Customer Service",
+                "Staff"
+            ],
+            "review_text": "We purchased a truck in July, 2024 with a 90 day/4000 mile warranty. Within the first two weeks, we had an engine lifter issue. We brought it in for repairs. Two weeks later, we had the same problem after Autonation fixed it.",
+            "likes": [],
+            "dislikes": [
+                "Repeated engine issues",
+                "Poor warranty service",
+                "Lack of assistance"
+            ]
+        },
+        {
+            "reviewer_name": "Paul",
+            "reviewer_location": "Ladys Island, SC",
+            "review_date": "2025-04-05",
+            "star_rating": 1,
+            "tags": [
+                "Customer Service",
+                "Staff"
+            ],
+            "review_text": "No I did not. I came in two separate times. The truck was looked at and I was offered $70,000. There is damage to the rear driver side door. I told the person I was dealing with and the damage was evident.",
+            "likes": [],
+            "dislikes": [
+                "Disrespectful staff",
+                "Mismatch in offers",
+                "Poor customer experience"
+            ]
+        },
+        {
+            "reviewer_name": "f",
+            "reviewer_location": "Irvine, CA",
+            "review_date": "2025-03-27",
+            "star_rating": 1,
+            "tags": [
+                "Customer Service"
+            ],
+            "review_text": "Save yourself time and money and avoid Mercedes Southbay like the plague...having purchased over 20 cars in my lifetime, this was hands down the WORST car buying experience I have ever had!",
+            "likes": [],
+            "dislikes": [
+                "WORST car buying experience",
+                "Lack of follow-up",
+                "Poor communication"
+            ]
+        }
+    ]
+}
